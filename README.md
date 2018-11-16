@@ -13,6 +13,10 @@ Unfortunately, we didn't manage to complete all the tasks and I will be providin
 Tasks that we failed to complete:
 Day1 - Challenge 2 & Day3 - Challenge 1
 
+I can be contacted through my email : imker0ky@gmail.com 
+
+Do email me if you have any inquiry.
+
 
 
 
