@@ -1,7 +1,9 @@
 # KPMG-Cyber-Security-Challenge-18
 KPMG Cyber Security Challenge 2018 writeup
 
-We joined the KPMG Cyber Security Challenge 2018 edition. This is the questions from the online national qualifier where we placed 6th out of 106 teams. 
+https://home.kpmg.com/my/en/home/services/advisory/risk-consulting/emerging-tech-risk-and-cyber/kpmg-cyber-security-challenge.html
+
+We joined the KPMG Cyber Security Challenge 2018 edition. These are the questions from the online national qualifier where we placed 6th out of 106 teams. 
 
 The format is as follows:
 -2 challenges will be released every two days
